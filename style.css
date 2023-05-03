@@ -1,0 +1,22 @@
+*{
+    background-color: black
+}
+.poster{
+    color:white;
+    margin-left: 25%;
+    width: 50%;
+    margin-top: 20px;
+    font-family: 'Vina Sans', cursive;
+    text-align: center;
+}
+.img{
+    border: 3px solid white;    
+}
+p{
+   color: whitesmoke;
+   font-size: 30px; 
+}
+h1{
+    color:antiquewhite;
+    font-size: 50px;
+}
